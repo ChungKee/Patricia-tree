@@ -1,8 +1,0 @@
-5
-insert 10101 1
-insert 10101 1
-search 10101
-delete 10101
-search 10101
-delete 10101
-quit
